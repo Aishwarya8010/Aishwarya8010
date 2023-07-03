@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Aishwarya Nimbokar</h1> 
-
-<img align="right" alt="coding" width="400"src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+<h1 align="center">Hi 👋, I'm Aishwarya Nimbokar</h1>
+<img align="right" alt="coding" width="400" src="https://tenor.com/view/scaler-create-impact-coding-programming-chill-gif-24991316">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishwarya8010&label=Profile%20views&color=0e75b6&style=flat" alt="aishwarya8010" /> </p>
-
-
 
 - 📫 How to reach me **aishwaryanimbokar@gmail.com**
 
